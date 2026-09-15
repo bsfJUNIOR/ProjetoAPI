@@ -9,5 +9,4 @@ public class EstruturaDadosApiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EstruturaDadosApiApplication.class, args);
 	}
-
 }
